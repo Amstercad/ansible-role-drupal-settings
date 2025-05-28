@@ -8,4 +8,4 @@
           - name: default
             filename: settings.test.php
   roles:
-    - role: opdavies.drupal-settings
+    - role: Amstercad.drupal-settings
